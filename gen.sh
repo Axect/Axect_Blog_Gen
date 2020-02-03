@@ -11,5 +11,6 @@ cp *.woff docs/
 cp *.svg docs/
 cp *.ico docs/
 cp *.png docs/
+cp -r $TARGET/../image ./
 
 # surge ./docs --domain peroxide.info
