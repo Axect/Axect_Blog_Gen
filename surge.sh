@@ -12,4 +12,4 @@ cp *.svg docs/
 cp *.ico docs/
 cp *.png docs/
 
-# surge ./docs --domain peroxide.info
+surge ./docs --domain https://axect.info
