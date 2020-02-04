@@ -1,1 +1,1 @@
-initSidebarItems({"mod":[["introduce","Introduce Axect"],["machine_learning",""]]});
+initSidebarItems({"mod":[["introduce","Introduce Axect"],["post","Various blog posts"]]});
