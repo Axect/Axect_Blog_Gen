@@ -1,1 +1,1 @@
-initSidebarItems({});
+initSidebarItems({"mod":[["scientific","Scientific Programming"]]});

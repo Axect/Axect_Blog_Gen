@@ -1,5 +1,5 @@
 export NAME="Axect_Blog"
-export TARGET="$HOME/Documents/Project/Rust_Project/Axect_Blog/target"
+export TARGET="$HOME/Documents/Project/Blog/Axect_Blog/target"
 
 rm -rf docs/
 cp -r $TARGET/doc/$NAME docs/
