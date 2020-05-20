@@ -1,1 +1,1 @@
-initSidebarItems({"mod":[["scientific","Scientific Programming"]]});
+initSidebarItems({"mod":[["numeric_rust_01","Numerical Computing with Rust"]]});
